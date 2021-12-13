@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Intellexia APP](https://github.com/fbulbulov/Intellexia)
 
-- 🌱 I’m currently learning **Python, Data Analytics and AI.**
+- 🌱 I’m currently learning **Python, Data Science and AI.**
 
 - 📫 How to reach me **farrukh.bulbulo@gmail.com**
 
